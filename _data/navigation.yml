@@ -2,11 +2,9 @@
 main:
   - title: "포스트"
     url: /_posts/
-  - title: "카테고리"
-    url: /_category/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "categories"
+    url: /_categories/
+  - title: "블로그 만들기"
+    url: /categories/블로그 만들기
+  - title: "About"
+    url: /about/
