@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "블로그"
-    url: https://pome95.github.io
   - title: "포스트"
     url: /_posts/
+  - title: "카테고리"
+    url: /_category/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
