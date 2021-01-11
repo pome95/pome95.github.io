@@ -309,3 +309,11 @@ defaults:
       comments: true
       share: true
       related: true
+
+  # _docs
+  - scope:
+      path: ""
+      tpye: docs
+    values:
+      sidebar:
+        nav: "docs"
