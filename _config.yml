@@ -26,7 +26,7 @@ subtitle                 : # site tagline that appears below site title in masth
 
 # 사이트 소유자 이름
 name                     : "뽀메"
-description              : "Pome's personal website"
+description              : "뽀메의 IT 블로그"
 
 url                      : "https://pome95.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -225,6 +225,9 @@ paginate: 7 # amount of posts to show
 paginate_path: /page:num/
 timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+gems:
+  - jekyll-feed
+  
 
 #플러그인 정의 부분
 # Plugins (previously gems:)
