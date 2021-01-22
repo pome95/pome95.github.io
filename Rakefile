@@ -30,6 +30,12 @@ def listen_handler(base, options)
   end
 end
 
+# Generate the site
+  sh "bundle exec jekyll build"
+
+# Run Algolia
+  sh "bundle exec jekyll algolia"
+
 task :preview do
   base = Pathname.new('.').expand_path
   options = {
