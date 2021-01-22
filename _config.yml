@@ -225,8 +225,7 @@ paginate: 7 # amount of posts to show
 paginate_path: /page:num/
 timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-gems:
-  - jekyll-feed
+
   
 
 #플러그인 정의 부분
