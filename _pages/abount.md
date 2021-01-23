@@ -6,7 +6,7 @@ toc_ads : true
 layout: single
 ---
 
-<img width="200" src="/assets/img/profile/pome.jpeg">
+<img width="200" src="/assets/img/profiles/pome.jpeg">
 
 ## pome95.github.io
 

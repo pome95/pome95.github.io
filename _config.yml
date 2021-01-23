@@ -32,7 +32,7 @@ url                      : "https://pome95.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : pome95/pome95.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/img/~~~"
-logo                     : "/assets/img/profile/pome.jpeg"
+logo                     : "/assets/img/profiles/pome.jpeg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -85,7 +85,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/img/profile/hjh.jpeg"
+og_image                 : "/assets/img/profiles/hjh.jpeg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "뽀메형"
-  avatar           : "/assets/img/profile/hjh.jpeg"
+  avatar           : "/assets/img/profiles/hjh.jpeg"
   bio              : "하나 하나 시작하는 IT"
   location         : "South Korea"
   #email            : 
