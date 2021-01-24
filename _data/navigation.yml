@@ -8,3 +8,36 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+
+docs:
+  - title: Making blog
+    children:
+      - title: "첫 포스팅"
+        url: /making%20blog/first.post/
+      - title: "블로그를 시작하며"
+        url: /making%20blog/bloging/
+      - title: "마크 다운 다루기"
+        url: /making%20blog/markdown/  
+
+  - title: Data_Structure
+    url: /computer%20engineering/dslearn/
+    children:
+      - title: "Array"
+        url: /computer%20engineering/array/
+      - title: "Queue"
+        url: /computer%20engineering/queue/
+      - title: "Stack"
+        url: /computer%20engineering/stack/
+      - title: "Linked_list"
+        url: /computer%20engineering/linked/
+
+  - title: Node Js
+    children:
+      - title: "제작중.."
+        url: /
+
+
+  - title: About me
+    children:
+      - title: "제작중.."
+        url: /
