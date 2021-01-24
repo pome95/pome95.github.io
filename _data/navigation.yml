@@ -30,6 +30,8 @@ docs:
         url: /computer%20engineering/stack/
       - title: "Linked_list"
         url: /computer%20engineering/linked/
+      - title: "Hash_table"
+        url: /computer%20engineering/hashtable(1)
 
   - title: Node Js
     children:
