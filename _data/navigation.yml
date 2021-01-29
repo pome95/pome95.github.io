@@ -10,7 +10,6 @@ main:
     url: /about/
 
 docs:
-  
   - title: Making blog
     children:
       - title: "첫 포스팅"

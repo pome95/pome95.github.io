@@ -11,6 +11,7 @@
 <html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
   <head>
     {% include head.html %}
+    
     {% include head/custom.html %}
   </head>
 
@@ -24,15 +25,19 @@
     </div>
 
     {% if site.search == true %}
+    
       <div class="search-content">
         {% include_cached search/search_form.html %}
       </div>
     {% endif %}
 
     <div id="footer" class="page__footer">
+      
       <footer>
         {% include footer/custom.html %}
+
         {% include_cached footer.html %}
+        
       </footer>
     </div>
 
