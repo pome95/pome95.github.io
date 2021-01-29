@@ -28,12 +28,12 @@ layout: default
         <header>
           {% if page.title %}<h1 id="page-title" class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
           <div style="float: right;">
-            <a href="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}"
+            <a href="https://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'https://' }}{{ page.url }}"
               target="_blank">
               <img
-                src="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}.svg" />
+                src="https://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'https://' }}{{ page.url }}.svg" />
             </a>
-          </div>
+          </div>          
           {% if page.read_time %} <p class="page__date"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }} <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>{% endif %}
           
         </header>
