@@ -10,6 +10,7 @@ main:
     url: /about/
 
 docs:
+  <a href="https://hits.seeyoufarm.com"><img style="float: right;" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fpome95.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>   
   - title: Making blog
     children:
       - title: "첫 포스팅"
