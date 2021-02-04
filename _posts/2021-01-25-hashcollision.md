@@ -35,7 +35,7 @@ tags:
 >>복잡한 계산식이 필요없고 삭제, 삽입이 간단하나  
 >>연결 리스트 자체의 오버헤드가 있다.
 
-2. 선형 탐색 (Linear Probing) 기법
+2. [선형 탐색 (Linear Probing) 기법](https://pome95.github.io/computer%20engineering/linear/)
 >개방 주소법(Open Addressing)의 하나로 해시 충돌이 일어날 경우  
 >다음 저장 공간에 데이터를 삽입하는 방식.
 >>체이닝처럼 연결 리스트가 없기에 포인터가 필요없지만  
