@@ -23,15 +23,15 @@ docs:
     url: /computer%20engineering/dslearn/
     children:
       - title: "Array"
-        url: /computer%20engineering/array/
+        url: /array/
       - title: "Queue"
-        url: /computer%20engineering/queue/
+        url: /queue/
       - title: "Stack"
-        url: /computer%20engineering/stack/
+        url: /stack/
       - title: "Linked_list"
-        url: /computer%20engineering/linked/
+        url: /linked/
       - title: "Hash_table"
-        url: /computer%20engineering/hashtable(1)
+        url: /hash_table
 
   - title: Node Js
     children:
