@@ -10,9 +10,10 @@ layout: single
 <img width="200" src="/assets/img/data/hash_table.png">  
 <br/>
 
-[해시 테이블 기초(1)]({{ site.url }}{{ site.baseurl }}/computer%20engineering/hashtable(1)/) - 파이썬 list를 활용한 해시 테이블 구현 기초(1) &nbsp;  [![Github_page](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pome95/Data-Structure/tree/master/Hash_table/hash(1))](https://github.com/pome95/Data-Structure/tree/master/Hash_table/hash(1))  
+[해시 테이블 기초(1)]({{ site.url }}{{ site.baseurl }}/computer%20engineering/hashtable(1)/) - 파이썬 해시 테이블 기초 &nbsp;  [![Github_page](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pome95/Data-Structure/tree/master/Hash_table/hash(1))](https://github.com/pome95/Data-Structure/tree/master/Hash_table/hash(1))  
 <br/>
-[해시 테이블 기초(2)]({{ site.url }}{{ site.baseurl }}/computer%20engineering/hashtable(2)/) - 파이썬 list를 활용한 해시 테이블 구현 기초(2) &nbsp;  [![Github_page](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pome95/Data-Structure/tree/master/Hash_table/hash(2))](https://github.com/pome95/Data-Structure/tree/master/Hash_table/hash(2))  
+
+[해시 테이블 기초(2)]({{ site.url }}{{ site.baseurl }}/computer%20engineering/hashtable(2)/) - 파이썬 list를 활용한 해시 테이블 구현 기초 &nbsp;  [![Github_page](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pome95/Data-Structure/tree/master/Hash_table/hash(2))](https://github.com/pome95/Data-Structure/tree/master/Hash_table/hash(2))  
 <br/>
 
 ---
