@@ -28,9 +28,9 @@ docs:
         url: /queue/
       - title: "Stack"
         url: /stack/
-      - title: "Linked_list"
+      - title: "Linked list"
         url: /linked/
-      - title: "Hash_table"
+      - title: "Hash table"
         url: /hash_table
       - title: "Tree"
         url: /tree
