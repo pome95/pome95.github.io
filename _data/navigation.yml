@@ -32,6 +32,8 @@ docs:
         url: /linked/
       - title: "Hash_table"
         url: /hash_table
+      - title: "Tree"
+        url: /tree
 
   - title: Node Js
     children:
