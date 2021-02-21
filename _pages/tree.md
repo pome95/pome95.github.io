@@ -22,7 +22,10 @@ layout: single
 [이진 트리 삭제(1)]({{ site.url }}{{ site.baseurl }}/computer%20engineering/delbst/) - 파이썬 Class Node를 활용한 이진 트리 삭제(1) &nbsp;  [![Github_page](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pome95/Data-Structure/tree/master/Tree/deltree)](https://github.com/pome95/Data-Structure/tree/master/Tree/deltree)  
 <br/>
 
-[이진 트리 삭제(2)]({{ site.url }}{{ site.baseurl }}/computer%20engineering/delbst2/) - 파이썬 Class Node를 활용한 이진 트리 삭제(2) &nbsp;  [![Github_page](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pome95/Data-Structure/tree/master/Tree/deltree)](https://github.com/pome95/Data-Structure/tree/master/Tree/deltree)  
+[이진 트리 삭제(2)]({{ site.url }}{{ site.baseurl }}/computer%20engineering/delbst2/) - 파이썬 Class Node를 활용한 이진 트리 삭제(3) &nbsp;  [![Github_page](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pome95/Data-Structure/tree/master/Tree/deltree)](https://github.com/pome95/Data-Structure/tree/master/Tree/deltree)  
+<br/>
+
+[이진 트리 삭제(3)]({{ site.url }}{{ site.baseurl }}/computer%20engineering/delbst3/) - 파이썬 Class Node를 활용한 이진 트리 삭제(3) &nbsp;  [![Github_page](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pome95/Data-Structure/tree/master/Tree/deltree)](https://github.com/pome95/Data-Structure/tree/master/Tree/deltree)  
 <br/>
 
 ---
