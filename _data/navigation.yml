@@ -35,7 +35,7 @@ docs:
       - title: "Tree"
         url: /tree
       - title: "Heap"
-        # url: /heap
+
 
   - title: Node Js
     children:
