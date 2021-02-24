@@ -15,7 +15,7 @@ tags:
 ---
 <br/>
 
-저번에는 [`해시 테이블 기본 구현`](https://pome95.github.io/computer%20engineering/hashtable(2)/)에 대해 간단히 다루어 보았다.<br/>
+저번에는 [`해시 테이블 기본 구현`]({{ site.url }}{{ site.baseurl }}/computer%20engineering/hashtable(2)/)에 대해 간단히 다루어 보았다.<br/>
 이번에는 `해시 충돌`에 대해 알아보도록 하자 <br/>
 
 
@@ -29,13 +29,13 @@ tags:
 여러가지 충돌 해결 기법이 있지만 그중 2가지를 다뤄보려한다.  
 <br/>
 
-1. [체이닝 (Chaining) 기법](https://pome95.github.io/computer%20engineering/chaining/)
+1. [체이닝 (Chaining) 기법]({{ site.url }}{{ site.baseurl }}/computer%20engineering/chaining/)
 >저장 공간 내에 데이터를 삽입시 같은 값에 의해 충돌이 발생할 경우   
 연결 리스트를 생성하여 데이터를 뒤에 연결해주는 방식.
 >>복잡한 계산식이 필요없고 삭제, 삽입이 간단하나  
 >>연결 리스트 자체의 오버헤드가 있다.
 
-2. [선형 탐색 (Linear Probing) 기법](https://pome95.github.io/computer%20engineering/linear/)
+2. [선형 탐색 (Linear Probing) 기법]({{ site.url }}{{ site.baseurl }}/computer%20engineering/linear/)
 >개방 주소법(Open Addressing)의 하나로 해시 충돌이 일어날 경우  
 >다음 저장 공간에 데이터를 삽입하는 방식.
 >>체이닝처럼 연결 리스트가 없기에 포인터가 필요없지만  
