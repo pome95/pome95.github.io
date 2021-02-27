@@ -37,6 +37,11 @@ docs:
       - title: "Heap"
         url: /heap
 
+  - title: Algorithm
+    children:
+      - title: "제작중.."
+        url: /
+
   - title: Node Js
     children:
       - title: "제작중.."
