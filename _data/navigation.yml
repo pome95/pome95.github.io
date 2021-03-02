@@ -46,9 +46,3 @@ docs:
     children:
       - title: "제작중.."
         url: /
-
-
-  - title: About me
-    children:
-      - title: "제작중.."
-        url: /
