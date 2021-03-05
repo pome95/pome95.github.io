@@ -277,6 +277,13 @@ compress_html:
   # 페이지 본문에 적용되는 기본 설정들 정의
   # path 값으로 경로 설정
 
+# Math equation
+markdown: kramdown
+highlighter: rough
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
 # Defaults
 defaults:
   # _posts
