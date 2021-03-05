@@ -38,6 +38,7 @@ docs:
         url: /heap
 
   - title: Algorithm
+    url: /computer%20engineering/algorithm
     children:
       - title: "제작중.."
         url: /
