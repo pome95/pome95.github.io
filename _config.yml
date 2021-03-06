@@ -279,7 +279,7 @@ compress_html:
 
 # Math equation
 markdown: kramdown
-highlighter: rough
+highlighter: roug
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
