@@ -1,6 +1,6 @@
 ---
 title: "정렬 (Sorting)"
-permalink: /array/
+permalink: /sorting/
 toc_sticky: true
 toc_ads : true
 layout: single
