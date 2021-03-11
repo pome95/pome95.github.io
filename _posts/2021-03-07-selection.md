@@ -30,12 +30,12 @@ tags:
 선택 정렬은 다음과 같은 코드를 베이스로 구현이 가능하다.
 
 ```python
-for 고정 in range(데이터 길이 -1):
+for 고정값 in range(데이터 길이 -1):
     lowest = stand
-    for index in range(고정 index+1, 데이터 길이ㅣ):
+    for index in range(고정값 index+1, 데이터 길이ㅣ):
         if data[lowest] > data[index]:
             lowest = index
-    swap(앞 데이터, 뒤 데이터)
+    swap(고정값, 작은값)
 ```
 
 ---
@@ -54,8 +54,14 @@ def selection_sort(data):
         data[lowest], data[stand] = data[stand], data[lowest]
     return data
 ```
+* 변수
+    * stand : 고정값 (작은값이 들어가는 최종 목표)
+    * lowest : 최솟값을 가진 인덱스를 저장하기 위한 값
+    * index : 데이터의 인덱스 값(위치)  
+    <br/>  
+
 * data에 랜덤값을 넣기위해 import random
-* 작은 값을 찾아 앞과 바꾼다.
+* 작은 값을 찾아 앞(stand)과 바꾼다.
 * 인덱스를 뒤로가며 교체를 바꿔가며 정렬
 
 ---
