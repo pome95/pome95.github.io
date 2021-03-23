@@ -5,7 +5,7 @@ toc:  true
 toc_sticky:  true
 toc_label:  바로가기
 header:
-        # teaser:  /assets/img/data/stack.png
+        teaser:  /assets/img/algo/selection.PNG
 
 
 categories:
